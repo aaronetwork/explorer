@@ -1,6 +1,14 @@
-# Blockchain explorer for Cosmos SDK
+# Blockchain explorer for Cosmos SDK [![npm](https://img.shields.io/npm/v/vue.svg)](https://www.npmjs.com/package/vue) [![build status](https://github.com/vuejs/core/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/vuejs/core/actions/workflows/ci.yml) [![Download](https://img.shields.io/npm/dm/vue)](https://www.npmjs.com/package/vue)
 
 ---
+
+<p align="center"><a href="https://explorer.aaronetwork.xyz" target="_blank"><img src="https://raw.githubusercontent.com/aaronetwork/logo/main/aaron_network_explorer_logo.png" width="400" alt="Explorer Logo"></a></p>
+
+---
+
+## About Explorer
+
+This software is an open-source blockchain explorer designed specifically for projects built on the Cosmos SDK. It provides a comprehensive and user-friendly interface for navigating and analyzing blockchain data, enabling users to explore transactions, blocks, validators, and other key metrics. With this tool, developers and enthusiasts can gain deeper insights into the blockchain networks powered by the Cosmos ecosystem. Its open-source nature ensures transparency, adaptability, and community-driven enhancements, making it an ideal solution for those seeking to monitor and interact with Cosmos-based blockchain projects.
 
 ## Getting Started
 
