@@ -39,4 +39,4 @@ If you find any problems, you can open a new issue.
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT)
+The Aaron Network Explorer is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
